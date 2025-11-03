@@ -1,25 +1,19 @@
 {
-  "name": "telegram_fonnte_bot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "axios": "^1.13.1",
-    "node-telegram-bot-api": "^0.66.0"
-  }
-}
-{
   "name": "hancur-tool",
   "version": "1.0.0",
+  "description": "Hancur tool for Termux (Node.js)",
+  "main": "hancur.js",
   "bin": {
     "hancur": "./hancur.js"
   },
-  "dependencies": {}
+  "scripts": {
+    "start": "node hancur.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.1",
+    "node-telegram-bot-api": "^0.63.0"
+  },
+  "author": "rifat",
+  "license": "ISC",
+  "type": "commonjs"
 }
