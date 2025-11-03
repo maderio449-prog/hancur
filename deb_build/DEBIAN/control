@@ -1,0 +1,7 @@
+Package: hancur
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: rifat <rifatetvens@example.com>
+Description: Hancur tool for Termux (Node.js)
