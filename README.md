@@ -13,4 +13,5 @@ cd ~/hancur
 mv package.json package.json.bak
 npm init -y
 npm install axios --save
+node hancur.js
  cca6bf1 (Release hancur v1.0)
