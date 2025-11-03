@@ -34,4 +34,4 @@ echo "📁 Menyalin $SCRIPT_FILE ke $BIN_DIR/$SCRIPT_NAME ..."
 cp "$SCRIPT_FILE" "$BIN_DIR/$SCRIPT_NAME"
 chmod +x "$BIN_DIR/$SCRIPT_NAME"
 
-echo "✅ Instalasi selesai! Jalankan perintah: $SCRIPT_NAME"
+echo "✅ Instalasi selesai! ©2025 rifat"
