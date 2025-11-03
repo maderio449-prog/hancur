@@ -1,8 +1,9 @@
 # hancur
-Hancur fot tool Termux (Node.js)
+bug WhatsApp for tool Termux (Node.js)
 # Hancur Tool
 
-Deskripsi singkat tentang apa yang dilakukan `hancur.js`.
+bug WhatsApp via Termux can make anyone's WhatsApp suffer from delay bugs and so on
+©2025 rifat `hancur.js`.
 
 ## Instalasi (dari GitHub)
 ```bash
