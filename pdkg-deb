@@ -1,7 +1,0 @@
-Package: hancur
-Version: 1.0.0
-Section: utils
-Priority: optional
-Architecture: all
-Maintainer: Your Name <rifat@example.com>
-Description: Hancur tool for Termux
