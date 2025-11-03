@@ -6,7 +6,7 @@ Deskripsi singkat tentang apa yang dilakukan `hancur.js`.
 
 ## Instalasi (dari GitHub)
 ```bash
-git clone https://github.com/rifat76hh/hancur-tool.git
+git clone https://github.com/maderio449-prog/hancur.git
 cd hancur-tool
 bash install.sh
  cca6bf1 (Release hancur v1.0)
